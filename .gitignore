@@ -21,3 +21,11 @@ build/
 # Env
 .env
 .env.*
+
+#
+Algorithm_Programmers.csproj
+Algorithm_Programmers.sln
+Program.cs
+obj/
+bin/
+test

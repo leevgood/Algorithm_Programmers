@@ -12,4 +12,9 @@ Algorithm_Programmers/
 
 ## 사용 언어
 
+### C# Learning
+* [입출력](<CSharp/Basic_Input and Output.md>)
+
+### Python
+* []
 - (추가 예정)
