@@ -14,6 +14,7 @@ Algorithm_Programmers/
 
 ### C# Learning
 * [입출력](<CSharp/Basic_Input and Output.md>)
+* [입출력2](<CSharp/Basic_Input and Output2.md>)
 
 ### Python
 * []
