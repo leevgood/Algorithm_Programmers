@@ -13,9 +13,14 @@ Algorithm_Programmers/
 ## 사용 언어
 
 ### C# Learning
+
+#### Level 0
 * [입출력](<CSharp/Basic_Input and Output.md>)
 * [입출력2](<CSharp/Basic_Input and Output2.md>)
+* [문자열 반복출력](<CSharp/String_Repeat.md>)
 
 ### Python
-* []
+
+#### Level 0
+* [수 나누기](<./Python/Number_Split.md>)
 - (추가 예정)
