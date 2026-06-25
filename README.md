@@ -21,7 +21,7 @@ Algorithm_Programmers/
 * [대소문자 바꿔서 출력하기(foreach, ToLower(), ToUpper(), IsUpper() 활용)](<CSharp/Change Case in String.md>)
 * [특수문자 출력하기(특수문자 ",\ 출력 활용)](<CSharp/Print Special Character.md>)
 
-### Python
+### Python Learning
 
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
