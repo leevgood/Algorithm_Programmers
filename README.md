@@ -20,10 +20,12 @@ Algorithm_Programmers/
 * [문자열 반복출력 int.Parse(), ReadLine.Split() 활용](<CSharp/String_Repeat.md>)
 * [대소문자 바꿔서 출력하기(foreach, ToLower(), ToUpper(), IsUpper() 활용)](<CSharp/Change Case in String.md>)
 * [특수문자 출력하기(특수문자 ",\ 출력 활용)](<CSharp/Print Special Character.md>)
+* [두수의 합 출력하기(가변변수 출력 활용)](<CSharp/Print_Sum_Expression.md>)
 
 ### Python Learning
 
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
 * [심폐소생술(range() 활용)](<./Python/CPR.md>)
+* [버스(함수 인자 조정)](<./Python/Bus_Empty_Seats.md>)
 - (추가 예정)
