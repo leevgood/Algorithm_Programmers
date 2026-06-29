@@ -23,6 +23,7 @@ Algorithm_Programmers/
 * [두수의 합 출력하기(가변변수 출력 활용)](<CSharp/Print_Sum_Expression.md>)
 * [문자열 덮어쓰기(Substring(), Length활용)](<CSharp/OverWirte_String.md>)
 * [두 수 붙여서 비교하기(ToString(), int.Parse() 활용)](<CSharp/Compare_Concatenated_Numbers.md>)
+* [조건 문자열(삼항 연산자와 bool 자료형 활용)](<CSharp/Condition_String.md>)
 ### Python Learning
 
 #### Level 0
@@ -31,4 +32,5 @@ Algorithm_Programmers/
 * [버스(함수 인자 조정)](<./Python/Bus_Empty_Seats.md>)
 * [닉네임 규칙 반복문(while 활용)](<./Python/Nickname_Rules.md>)
 * [피타고라스 정리(**연산자 활용)](<./Python/Compare_Concatenated_Numbers.md>)
+* [가채점(이중 배열 사용)](<./Python/Score_Check.md>)
 - (추가 예정)
