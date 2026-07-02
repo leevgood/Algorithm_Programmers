@@ -26,6 +26,7 @@ Algorithm_Programmers/
 * [조건 문자열(삼항 연산자와 bool 자료형 활용)](<CSharp/Condition_String.md>)
 * [코드 처리하기(문자열 비교 Equals() or StringBuilder 활용)](<CSharp/Code_Processing.md>)
 * [주사위 게임2(비교 연산자 &&, || 활용)](<CSharp/Dice_Game_2.md>)
+* [마지막 두 원소(배열 추가, 복사 활용)](<CSharp/The_Last_Two_Elements.md>)
 ### Python Learning
 
 #### Level 0
@@ -37,4 +38,5 @@ Algorithm_Programmers/
 * [가채점(이중 배열 사용)](<./Python/Score_Check.md>)
 * [등차수열의 특정한 항만 더하기(range(len(var)), enumerate(var) 활용)](<./Python/Arithmetic_Sequence.md>)
 * [이어 붙인 수(자료형 변환 str(var))활용](<./Python/Concatenated_Numbers.md>)
+* [수열과 구간 쿼리3(2차원 배열)](<./Python/Sequence_and_Interval_Queries.md>)
 - (추가 예정)
