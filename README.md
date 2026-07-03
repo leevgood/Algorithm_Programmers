@@ -27,6 +27,7 @@ Algorithm_Programmers/
 * [코드 처리하기(문자열 비교 Equals() or StringBuilder 활용)](<CSharp/Code_Processing.md>)
 * [주사위 게임2(비교 연산자 &&, || 활용)](<CSharp/Dice_Game_2.md>)
 * [마지막 두 원소(배열 추가, 복사 활용)](<CSharp/The_Last_Two_Elements.md>)
+* [수열과 구간 쿼리2(2차원 배열 순회, int.MaxValue 활용)](<CSharp/Sequence_and_Interval_Queries_2.md>)
 ### Python Learning
 
 #### Level 0
