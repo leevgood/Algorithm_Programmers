@@ -28,7 +28,7 @@ Algorithm_Programmers/
 * [주사위 게임2(비교 연산자 &&, || 활용)](<CSharp/Dice_Game_2.md>)
 * [마지막 두 원소(배열 추가, 복사 활용)](<CSharp/The_Last_Two_Elements.md>)
 * [수열과 구간 쿼리2(2차원 배열 순회, int.MaxValue 활용)](<CSharp/Sequence_and_Interval_Queries_2.md>)
-### Python Learning
+* [배열 만들기2(foreach문 List<int> 활용)](<CSharp/Creating_Arrays_2.md>)
 
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
