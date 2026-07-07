@@ -31,6 +31,7 @@ Algorithm_Programmers/
 * [배열 만들기2(foreach문 List<int> 활용)](<CSharp/Creating_Arrays_2.md>)
 * [배열 만들기4(list.Count, stk.Count 활용)](<CSharp/Creating_Arrays_4.md>)
 * [주사위게임3(Linq, Dictionary 등 활용)](<CSharp/Dice_Game_3.md>)
+* [9로 나눈 나머지(char to int 형변환 활용)](<CSharp/Divisible_by_9.md>)
 
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
@@ -44,5 +45,6 @@ Algorithm_Programmers/
 * [수열과 구간 쿼리3(2차원 배열)](<./Python/Sequence_and_Interval_Queries.md>)
 * [배열 만들기4(arr.pop() 활용)](<CSharp/Creating_Arrays_4.md>)
 * [주사위게임3(Counter 활용)](<CSharp/Dice_Game_3.md>)
+* [9로 나눈 나머지(char to int 형변환 활용)](<CSharp/Divisible_by_9.md>)
 
 - (추가 예정)
