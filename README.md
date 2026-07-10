@@ -34,6 +34,7 @@ Algorithm_Programmers/
 * [9로 나눈 나머지(char to int 형변환 활용)](<CSharp/Divisible_by_9.md>)
 * [문자열 여러번 뒤집기(toCharArray(), string(char) 활용)](<CSharp/String_Reverse.md>)
 * [배열 만들기6(Substring() 활용)](<CSharp/Creating_Arrays_6.md>)
+* [부분 문자열 이어 붙여 문자열 만들기(Substring() 활용)](<CSharp/Concatenated_String.md>)
 
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
@@ -50,5 +51,6 @@ Algorithm_Programmers/
 * [9로 나눈 나머지(char to int 형변환 활용)](<CSharp/Divisible_by_9.md>)
 * [문자열 여러번 뒤집기(reversed() 활용)](<CSharp/String_Reverse.md>)
 * [배열 만들기6(배열 슬라이싱(ex var[s:s+l]) 활용)](<CSharp/Creating_Arrays_6.md>)
+* [부분 문자열 이어 붙여 문자열 만들기(이중배열, 배열 슬라이싱 활용](<CSharp/Concatenated_String.md>)
 
 - (추가 예정)
