@@ -36,7 +36,7 @@ Algorithm_Programmers/
 * [배열 만들기6(Substring() 활용)](<CSharp/Creating_Arrays_6.md>)
 * [부분 문자열 이어 붙여 문자열 만들기(Substring() 활용)](<CSharp/Concatenated_String.md>)
 * [접미사 배열(List.sort() 활용)](<CSharp/Suffix_Arrangement.md>)
-* [문자열 앞의 n글자](<CSharp/String_Head.md>)
+* [문자열 앞의 n글자(Substring() 활용)](<CSharp/Strging_Head.md>)
 
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
