@@ -4,7 +4,10 @@ Thumbs.db
 
 # IDE
 .idea/
+# 2026-07-15 변경: 개인 VS Code 설정 파일은 GitHub에 올리지 않습니다.
 .vscode/
+# 2026-07-15 변경: Code Runner가 선택 영역 실행 시 만들 수 있는 C# 임시 파일은 저장소에 올리지 않습니다.
+tempCodeRunnerFile.cs
 *.swp
 *.swo
 
