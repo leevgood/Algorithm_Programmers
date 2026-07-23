@@ -39,6 +39,7 @@ Algorithm_Programmers/
 * [문자열 앞의 n글자(Substring() 활용)](<CSharp/String_Head.md>)
 * [문자열 뒤집기(ToCharArray(), new string(char)활용)](<CSharp/String_Reverse2.md>)
 * [문자 개수 세기(알파벳 정수화 활용)](<CSharp/Count_Characters.md>)
+* [리스트 자르기(배열 슬라이싱 활용)](<CSharp/List_Slicing.md>)
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
 * [심폐소생술(range() 활용)](<./Python/CPR.md>)
