@@ -40,6 +40,7 @@ Algorithm_Programmers/
 * [문자열 뒤집기(ToCharArray(), new string(char)활용)](<CSharp/String_Reverse2.md>)
 * [문자 개수 세기(알파벳 정수화 활용)](<CSharp/Count_Characters.md>)
 * [리스트 자르기(배열 슬라이싱 활용)](<CSharp/List_Slicing.md>)
+* [조건에 맞게 수열 변환하기2(bool 자료형 활용)](<CSharp/Sequence_Transformation2.md>)
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
 * [심폐소생술(range() 활용)](<./Python/CPR.md>)
@@ -59,4 +60,5 @@ Algorithm_Programmers/
 * [접미사 배열(Arr.sort() 활용)](<CSharp/Suffix_Arrangement.md>)
 * [문자열 뒤집기(list(str), ''.join(list1) 활용)](<CSharp/String_Reverse2.md>)
 * [문자 개수 세기(알파벳 정수화, ord 연산자 활용)](<CSharp/Count_Characters.md>)
+* [조건에 맞게 수열 변환하기2(bool 자료형 활용)](<CSharp/Sequence_Transformation2.md>)
 - (추가 예정)
