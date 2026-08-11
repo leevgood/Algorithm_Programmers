@@ -61,4 +61,5 @@ Algorithm_Programmers/
 * [문자열 뒤집기(list(str), ''.join(list1) 활용)](<CSharp/String_Reverse2.md>)
 * [문자 개수 세기(알파벳 정수화, ord 연산자 활용)](<CSharp/Count_Characters.md>)
 * [조건에 맞게 수열 변환하기2(bool 자료형 활용)](<CSharp/Sequence_Transformation2.md>)
+* [원하는 문자열 찾기(find() 활용)](<./Python/Finding_String.md>)
 - (추가 예정)
