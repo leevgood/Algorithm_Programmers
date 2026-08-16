@@ -42,6 +42,7 @@ Algorithm_Programmers/
 * [리스트 자르기(배열 슬라이싱 활용)](<CSharp/List_Slicing.md>)
 * [조건에 맞게 수열 변환하기2(bool 자료형 활용)](<CSharp/Sequence_Transformation2.md>)
 * [A 강조하기(new string(array) 활용)](<CSharp/Emphasize_A.md>)
+* [특정한 문자를 대문자로 바꾸기(char.ToUpper() 활용)](<CSharp/Change_Characters_to_Capital_Letters.md>)
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
 * [심폐소생술(range() 활용)](<./Python/CPR.md>)
@@ -64,4 +65,5 @@ Algorithm_Programmers/
 * [조건에 맞게 수열 변환하기2(bool 자료형 활용)](<CSharp/Sequence_Transformation2.md>)g
 * [원하는 문자열 찾기(find() 활용)](<./Python/Finding_String.md>)
 * [A 강조하기(''.join(array) 활용](<CSharp/Emphasize_A.md>)
+* [특정한 문자를 대문자로 바꾸기(char.upper(), ''.join(array) 활용)](<CSharp/Change_Characters_to_Capital_Letters.md>)
 - (추가 예정)
