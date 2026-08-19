@@ -70,4 +70,5 @@ Algorithm_Programmers/
 * [특정한 문자를 대문자로 바꾸기(char.upper(), ''.join(array) 활용)](<CSharp/Change_Characters_to_Capital_Letters.md>)
 * [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기(rfind() 활용)](<CSharp/Longest_Substring.md>)
 * [문자열이 몇 번 등장하는지 세기(str[start:end] 활용)](<CSharp/String_Count.md>)
+* [ad 제거하기(char in string 활용)](<CSharp/Remove_Ad.md>)
 - (추가 예정)
