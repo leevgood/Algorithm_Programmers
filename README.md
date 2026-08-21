@@ -45,6 +45,7 @@ Algorithm_Programmers/
 * [특정한 문자를 대문자로 바꾸기(char.ToUpper() 활용)](<CSharp/Change_Characters_to_Capital_Letters.md>)
 * [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기(LastIndexOf() 활용)](<CSharp/Longest_Substring.md>)
 * [문자열이 몇 번 등장하는지 세기(Substring() 활용)](<CSharp/String_Count.md>)
+* [공백으로 구분하기(Linq Where 활용)](<CSharp/String_Split.md>)
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
 * [심폐소생술(range() 활용)](<./Python/CPR.md>)
@@ -71,4 +72,5 @@ Algorithm_Programmers/
 * [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기(rfind() 활용)](<CSharp/Longest_Substring.md>)
 * [문자열이 몇 번 등장하는지 세기(str[start:end] 활용)](<CSharp/String_Count.md>)
 * [ad 제거하기(char in string 활용)](<CSharp/Remove_Ad.md>)
+* [공백으로 구분하기(split() 활용)](<CSharp/String_Split.md>)
 - (추가 예정)
