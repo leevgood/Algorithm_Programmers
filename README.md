@@ -48,6 +48,7 @@ Algorithm_Programmers/
 * [공백으로 구분하기(Linq Where 활용)](<CSharp/String_Split.md>)
 * [세 개의 구분자(StringSplitOptions.RemoveEmptyEntries 활용)](<CSharp/String_Split_2.md>)
 * [빈 배열에 추가, 삭제하기(RemoveAt() 활용)](<CSharp/Array_Add_Delete.md>)
+* [배열의 길이를 2의 거듭제곱으로 만들기(Array.Copy() 활용)](<CSharp/Array_Length.md>)
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
 * [심폐소생술(range() 활용)](<./Python/CPR.md>)
@@ -63,7 +64,7 @@ Algorithm_Programmers/
 * [9로 나눈 나머지(char to int 형변환 활용)](<CSharp/Divisible_by_9.md>)
 * [문자열 여러번 뒤집기(reversed() 활용)](<CSharp/String_Reverse.md>)
 * [배열 만들기6(배열 슬라이싱(ex var[s:s+l]) 활용)](<CSharp/Creating_Arrays_6.md>)
-* [부분 문자열 이어 붙여 문자열 만들기(이중배열, 배열 슬라이싱 활용](<CSharp/Concatenated_String.md>)
+* [부분 문자열 이어 붙여 문자열 만들기(이중배열, 배열 슬라이싱 활용)](<CSharp/Concatenated_String.md>)
 * [접미사 배열(Arr.sort() 활용)](<CSharp/Suffix_Arrangement.md>)
 * [문자열 뒤집기(list(str), ''.join(list1) 활용)](<CSharp/String_Reverse2.md>)
 * [문자 개수 세기(알파벳 정수화, ord 연산자 활용)](<CSharp/Count_Characters.md>)
@@ -77,4 +78,5 @@ Algorithm_Programmers/
 * [공백으로 구분하기(split() 활용)](<CSharp/String_Split.md>)
 * [세 개의 구분자(re.split(r'[abc]', str) 활용)](<CSharp/String_Split_2.md>)
 * [빈 배열에 추가, 삭제하기(pop() 활용)](<CSharp/Array_Add_Delete.md>)
+* [배열의 길이를 2의 거듭제곱으로 만들기(arr + [0]*n 활용)](<CSharp/Array_Length.md>)
 - (추가 예정)
