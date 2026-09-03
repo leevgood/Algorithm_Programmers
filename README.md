@@ -49,6 +49,7 @@ Algorithm_Programmers/
 * [세 개의 구분자(StringSplitOptions.RemoveEmptyEntries 활용)](<CSharp/String_Split_2.md>)
 * [빈 배열에 추가, 삭제하기(RemoveAt() 활용)](<CSharp/Array_Add_Delete.md>)
 * [배열의 길이를 2의 거듭제곱으로 만들기(Array.Copy() 활용)](<CSharp/Array_Length.md>)
+* [문자열 묶기(new int[31] 활용)](<CSharp/String_Binding.md>)
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
 * [심폐소생술(range() 활용)](<./Python/CPR.md>)
@@ -79,4 +80,5 @@ Algorithm_Programmers/
 * [세 개의 구분자(re.split(r'[abc]', str) 활용)](<CSharp/String_Split_2.md>)
 * [빈 배열에 추가, 삭제하기(pop() 활용)](<CSharp/Array_Add_Delete.md>)
 * [배열의 길이를 2의 거듭제곱으로 만들기(arr + [0]*n 활용)](<CSharp/Array_Length.md>)
+* [문자열 묶기(arr = [0]*31 활용)](<CSharp/String_Binding.md>)
 - (추가 예정)
