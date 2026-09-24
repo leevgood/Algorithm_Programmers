@@ -53,6 +53,7 @@ Algorithm_Programmers/
 * [전국 대회 선발 고사(Enumerable.Range() 활용)](<CSharp/National_Competition_Selection.md>)
 * [두 수의 합(StringBuilder 활용)](<CSharp/Sum_of_Two_Numbers.md>)
 * [배열의 원소 삭제하기(arr.Contains() 활용)](<CSharp/Array_Delete.md>)
+* [그림확대(new string(c,k) 활용)](<CSharp/Zoom_In.md>)
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
 * [심폐소생술(range() 활용)](<./Python/CPR.md>)
@@ -87,4 +88,5 @@ Algorithm_Programmers/
 * [전국 대회 선발 고사(arr.sort(key=lambda x: x[1]) 활용)](<CSharp/National_Competition_Selection.md>)
 * [두 수의 합( ''.join(arr1), arr[::-1] 활용)](<CSharp/Sum_of_Two_Numbers.md>)
 * [배열의 원소 삭제하기(if x not in arr 활용)](<CSharp/Array_Delete.md>)
+* [그림확대(for _ in range(n), s= s+c*k 활용)](<CSharp/Zoom_In.md>)
 - (추가 예정)
