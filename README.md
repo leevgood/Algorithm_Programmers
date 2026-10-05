@@ -57,6 +57,7 @@ Algorithm_Programmers/
 * [l로 만들기(str.Select(x=>x-'l'>0? a:b) 활용)](<CSharp/Make_l.md>)
 * [특별한 이차원 배열 1(int [,] arr = new int[n,n] 활용)](<CSharp/Special_2D_Array_1.md>)
 * [정사각형으로 만들기(Math.max 활용)](<CSharp/Make_Square.md>)
+* [문자열 밀기(string.IndexOf() 활용)](<CSharp/Push_String.md>) <!-- 10/6 10/7 -->
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
 * [심폐소생술(range() 활용)](<./Python/CPR.md>)
@@ -95,4 +96,5 @@ Algorithm_Programmers/
 * [l로 만들기([x if x>'l' else 'l' for x in s] 활용)](<CSharp/Make_l.md>)
 * [특별한 이차원 배열 1 (2차원 배열 초기화 활용)](<CSharp/Special_2D_Array_1.md>)
 * [정사각형으로 만들기(2차원 배열 초기화 활용)](<CSharp/Make_Square.md>)
+* [문자열 밀기(string.find() 활용)](<CSharp/Push_String.md>)
 - (추가 예정)
