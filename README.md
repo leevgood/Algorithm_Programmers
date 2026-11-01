@@ -59,7 +59,7 @@ Algorithm_Programmers/
 * [정사각형으로 만들기(Math.max 활용)](<CSharp/Make_Square.md>)
 * [문자열 밀기(string.IndexOf() 활용)](<CSharp/Push_String.md>) 
 * [잘라서 배열로 저장하기(string.Substring() 활용)](<CSharp/String_to_Array.md>) 
-* [k의 개수(linq활용)](<CSharp/Count_k.md>)<!-- 11/01 11/02 11/05 11/12 12/3 -->
+* [k의 개수(linq활용)](<CSharp/Count_k.md>) - 11/01 11/02 11/05 11/12 12/3
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
 * [심폐소생술(range() 활용)](<./Python/CPR.md>)
@@ -100,5 +100,5 @@ Algorithm_Programmers/
 * [정사각형으로 만들기(2차원 배열 초기화 활용)](<CSharp/Make_Square.md>)
 * [문자열 밀기(string.find() 활용)](<CSharp/Push_String.md>)
 * [잘라서 배열로 저장하기(배열 슬라이싱 활용)](<CSharp/String_to_Array.md>)
-* [k의 개수(linq활용)](<CSharp/Count_k.md>)<!-- 11/01 11/02 11/05 11/12 12/3 -->
+* [k의 개수(linq활용)](<CSharp/Count_k.md>)- 11/01 11/02 11/05 11/12 12/3
 - (추가 예정)
