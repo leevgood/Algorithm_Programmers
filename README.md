@@ -60,8 +60,9 @@ Algorithm_Programmers/
 * [문자열 밀기(string.IndexOf() 활용)](<CSharp/Push_String.md>) 
 * [잘라서 배열로 저장하기(string.Substring() 활용)](<CSharp/String_to_Array.md>) 
 * [k의 개수(linq활용)](<CSharp/Count_k.md>) - 11/01 11/02 11/05 11/12 12/3
-* [A로 B만들기(linq, SequenceEqual() 활용)](<CSharp/Replace_A_with_B.md>) - 11/02 11/03 11/06 11/13 12/4
-* [이진수 더하기(Convert.ToInt32(str1,2)활용)](<CSharp/Sum_of_Binary_Numbers.md>) - 11/03 11/04 11/07 11/14 12/5
+* [A로 B만들기(linq, SequenceEqual() 활용)](<CSharp/Replace_A_with_B.md>) - 11/08 11/09 11/12 11/19 12/10
+* [이진수 더하기(Convert.ToInt32(str1,2)활용)](<CSharp/Sum_of_Binary_Numbers.md>) - 11/08 11/09 11/12 11/19 12/10
+* [치킨쿠폰](<./CSharp/Chicken_Coupon.md>) 11/08 11/09 11/12 11/19 12/10
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
 * [심폐소생술(range() 활용)](<./Python/CPR.md>)
@@ -103,6 +104,7 @@ Algorithm_Programmers/
 * [문자열 밀기(string.find() 활용)](<CSharp/Push_String.md>)
 * [잘라서 배열로 저장하기(배열 슬라이싱 활용)](<CSharp/String_to_Array.md>)
 * [k의 개수(linq활용)](<CSharp/Count_k.md>)- 11/01 11/02 11/05 11/12 12/3
-* [A로 B만들기(linq, SequenceEqual() 활용)](<CSharp/Replace_A_with_B.md>) - 11/02 11/03 11/06 11/13 12/4
-* [이진수 더하기(Convert.ToInt32(str1,2)활용)](<CSharp/Sum_of_Binary_Numbers.md>) - 11/03 11/04 11/07 11/14 12/5
+* [A로 B만들기(linq, SequenceEqual() 활용)](<CSharp/Replace_A_with_B.md>) - 11/08 11/09 11/12 11/19 12/10
+* [이진수 더하기(Convert.ToInt32(str1,2)활용)](<CSharp/Sum_of_Binary_Numbers.md>) - 11/08 11/09 11/12 11/19 12/10
+* [치킨쿠폰](<./CSharp/Chicken_Coupon.md>) 11/08 11/09 11/12 11/19 12/10
 - (추가 예정)
