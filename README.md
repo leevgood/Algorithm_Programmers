@@ -65,6 +65,7 @@ Algorithm_Programmers/
 * [치킨쿠폰](<./CSharp/Chicken_Coupon.md>)  11/12 11/19 12/10
 * [로그인성공?](<./CSharp/Login_Success.md>)  11/13 11/20 12/11
 * [등수 매기기](<./CSharp/Get_Rank.md>)  11/10 11/11 11/14 11/21 12/12
+* [특이한 정렬](<./CSharp/Special_Sort.md>)  11/11 11/12 11/15 11/22 12/13
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
 * [심폐소생술(range() 활용)](<./Python/CPR.md>)
@@ -111,4 +112,5 @@ Algorithm_Programmers/
 * [치킨쿠폰](<./CSharp/Chicken_Coupon.md>)  11/12 11/19 12/10
 * [로그인성공?](<./CSharp/Login_Success.md>)   11/13 11/20 12/11
 * [등수 매기기](<./CSharp/Get_Rank.md>)  11/10 11/11 11/14 11/21 12/12
+* [특이한 정렬](<./CSharp/Special_Sort.md>)  11/11 11/12 11/15 11/22 12/13
 - (추가 예정)
