@@ -65,10 +65,12 @@ Algorithm_Programmers/
 * [치킨쿠폰](<./CSharp/Chicken_Coupon.md>)  11/12 11/19 12/10
 * [로그인성공?](<./CSharp/Login_Success.md>)  11/13 11/20 12/11
 * [등수 매기기](<./CSharp/Get_Rank.md>)   11/14 11/21 12/12
-* [특이한 정렬](<./CSharp/Special_Sort.md>)   11/15 11/22 12/13
-* [유한소수 판별하기](<./CSharp/Determination_finite_decimal.md>)  11/16 11/23 12/14 
-* [겹치는 선분의 길이](<./CSharp/Length_of_overlapping_segments.md>)  11/17 11/24 12/15
-* [평행](<./CSharp/Parallel.md>) 11/14 11/15 11/18 11/25 12/16
+* [특이한 정렬](<./CSharp/Special_Sort.md>)   1
+* [유한소수 판별하기](<./CSharp/Determination_finite_decimal.md>)  1
+* [겹치는 선분의 길이](<./CSharp/Length_of_overlapping_segments.md>)  1
+* [평행](<./CSharp/Parallel.md>) 1
+* [저주의 숫자3](<./CSharp/Cursed_Number_3.md>)
+* [숨어있는 숫자의 덧셈](<./CSharp/Sum_of_Hidden_Numbers.md>)
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
 * [심폐소생술(range() 활용)](<./Python/CPR.md>)
@@ -115,8 +117,10 @@ Algorithm_Programmers/
 * [치킨쿠폰](<./CSharp/Chicken_Coupon.md>)  11/12 11/19 12/10
 * [로그인성공?](<./CSharp/Login_Success.md>)   11/13 11/20 12/11
 * [등수 매기기](<./CSharp/Get_Rank.md>)  11/14 11/21 12/12
-* [특이한 정렬](<./CSharp/Special_Sort.md>)   11/15 11/22 12/13
-* [유한소수 판별하기](<./CSharp/Determination_finite_decimal.md>)  11/16 11/23 12/14 
-* [겹치는 선분의 길이](<./CSharp/Length_of_overlapping_segments.md>)  11/17 11/24 12/15
-* [평행](<./CSharp/Parallel.md>) 11/14 11/15 11/18 11/25 12/16
+* [특이한 정렬](<./CSharp/Special_Sort.md>)   1
+* [유한소수 판별하기](<./CSharp/Determination_finite_decimal.md>)  1
+* [겹치는 선분의 길이](<./CSharp/Length_of_overlapping_segments.md>)  1
+* [평행](<./CSharp/Parallel.md>) 1
+* [저주의 숫자3](<./CSharp/Cursed_Number_3.md>)
+* [숨어있는 숫자의 덧셈](<./CSharp/Sum_of_Hidden_Numbers.md>)
 - (추가 예정)
