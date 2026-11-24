@@ -70,7 +70,8 @@ Algorithm_Programmers/
 * [겹치는 선분의 길이](<./CSharp/Length_of_overlapping_segments.md>)  1
 * [평행](<./CSharp/Parallel.md>) 1
 * [저주의 숫자3](<./CSharp/Cursed_Number_3.md>)
-* [숨어있는 숫자의 덧셈](<./CSharp/Sum_of_Hidden_Numbers.md>)
+* [숨어있는 숫자의 덧셈](<./CSharp/Sum_of_Hidden_Numbers.md>) 1
+* [특정 문자 제거하기](<./CSharp/Remove_Specific_Characters.md>) 1
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
 * [심폐소생술(range() 활용)](<./Python/CPR.md>)
@@ -122,5 +123,6 @@ Algorithm_Programmers/
 * [겹치는 선분의 길이](<./CSharp/Length_of_overlapping_segments.md>)  1
 * [평행](<./CSharp/Parallel.md>) 1
 * [저주의 숫자3](<./CSharp/Cursed_Number_3.md>)
-* [숨어있는 숫자의 덧셈](<./CSharp/Sum_of_Hidden_Numbers.md>)
+* [숨어있는 숫자의 덧셈](<./CSharp/Sum_of_Hidden_Numbers.md>) 1
+* [특정 문자 제거하기](<./CSharp/Remove_Specific_Characters.md>) 1
 - (추가 예정)
