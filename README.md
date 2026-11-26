@@ -72,6 +72,8 @@ Algorithm_Programmers/
 * [저주의 숫자3](<./CSharp/Cursed_Number_3.md>)
 * [숨어있는 숫자의 덧셈](<./CSharp/Sum_of_Hidden_Numbers.md>) 1
 * [특정 문자 제거하기](<./CSharp/Remove_Specific_Characters.md>) 1
+* [직각삼각형 출력하기](<./CSharp/Right_Triangle_Printing.md>) 1
+* [문자열 정렬하기](<./CSharp/String_Sorting.md>)
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
 * [심폐소생술(range() 활용)](<./Python/CPR.md>)
@@ -125,4 +127,7 @@ Algorithm_Programmers/
 * [저주의 숫자3](<./CSharp/Cursed_Number_3.md>)
 * [숨어있는 숫자의 덧셈](<./CSharp/Sum_of_Hidden_Numbers.md>) 1
 * [특정 문자 제거하기](<./CSharp/Remove_Specific_Characters.md>) 1
+* [직각삼각형 출력하기](<./CSharp/Right_Triangle_Printing.md>) 1
+* [문자열 정렬하기](<./CSharp/String_Sorting.md>)
+
 - (추가 예정)
