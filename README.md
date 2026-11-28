@@ -73,7 +73,11 @@ Algorithm_Programmers/
 * [숨어있는 숫자의 덧셈](<./CSharp/Sum_of_Hidden_Numbers.md>) 1
 * [특정 문자 제거하기](<./CSharp/Remove_Specific_Characters.md>) 1
 * [직각삼각형 출력하기](<./CSharp/Right_Triangle_Printing.md>) 1
-* [문자열 정렬하기](<./CSharp/String_Sorting.md>)
+* [문자열 정렬하기](<./CSharp/String_Sorting.md>) 1
+* [최댓값 만들기2](<./CSharp/Maximum_Product_2.md>) 
+* [배열 회전시키기](<./CSharp/Rotate_Array.md>) 
+* [외계행성의 나이](<./CSharp/Alien_Planet_Age.md>)
+* [합성수 찾기](<./CSharp/Composite_Numbers.md>)
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
 * [심폐소생술(range() 활용)](<./Python/CPR.md>)
@@ -128,6 +132,11 @@ Algorithm_Programmers/
 * [숨어있는 숫자의 덧셈](<./CSharp/Sum_of_Hidden_Numbers.md>) 1
 * [특정 문자 제거하기](<./CSharp/Remove_Specific_Characters.md>) 1
 * [직각삼각형 출력하기](<./CSharp/Right_Triangle_Printing.md>) 1
-* [문자열 정렬하기](<./CSharp/String_Sorting.md>)
+* [문자열 정렬하기](<./CSharp/String_Sorting.md>) 1
+* [최댓값 만들기2](<./CSharp/Maximum_Product_2.md>) 
+* [배열 회전시키기](<./CSharp/Rotate_Array.md>) 
+* [외계행성의 나이](<./CSharp/Alien_Planet_Age.md>)
+* [합성수 찾기](<./CSharp/Composite_Numbers.md>)
+
 
 - (추가 예정)
