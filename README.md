@@ -78,6 +78,9 @@ Algorithm_Programmers/
 * [배열 회전시키기](<./CSharp/Rotate_Array.md>) 
 * [외계행성의 나이](<./CSharp/Alien_Planet_Age.md>)
 * [합성수 찾기](<./CSharp/Composite_Numbers.md>)
+* [2차원으로 만들기](<./CSharp/Convert_to_2D_Array.md>)
+* [진료순서 정하기](<./CSharp/Emergency_Ranking.md>) 
+* [모스부호(1)](<./CSharp/Morse_Code_1.md>)
 #### Level 0
 * [수 나누기(//= 연산자)](<./Python/Number_Split.md>)
 * [심폐소생술(range() 활용)](<./Python/CPR.md>)
@@ -137,6 +140,7 @@ Algorithm_Programmers/
 * [배열 회전시키기](<./CSharp/Rotate_Array.md>) 
 * [외계행성의 나이](<./CSharp/Alien_Planet_Age.md>)
 * [합성수 찾기](<./CSharp/Composite_Numbers.md>)
-
-
+* [2차원으로 만들기](<./CSharp/Convert_to_2D_Array.md>)
+* [진료순서 정하기](<./CSharp/Emergency_Ranking.md>) 
+* [모스부호(1)](<./CSharp/Morse_Code_1.md>)
 - (추가 예정)
